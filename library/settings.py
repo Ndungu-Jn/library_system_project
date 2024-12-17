@@ -194,4 +194,4 @@ MPESA_INITIATOR_SECURITY_CREDENTIAL = 'initiator_security_credential'
 
 #install django daraja and include  in apps.
 #install decouple library
-#install mysqlclient
+#install mysqlclient.
